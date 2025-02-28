@@ -7,7 +7,7 @@
 
 int days = int.Parse(Console.ReadLine());
 
-int acceptPacients = 0, sendedPacients = 0, doctors = 7, daysCounter = 3;
+int acceptPacients = 0, sendedPacients = 0, doctors = 7;
 
 //4
 //7
